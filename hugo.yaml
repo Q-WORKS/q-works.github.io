@@ -1,4 +1,4 @@
-baseURL: "https://wide.hpc4ai.it/"
+baseURL: "https://q-works.github.io/"
 disableKinds:
  - taxonomy
 enableRobotsTXT: true
@@ -26,5 +26,8 @@ params:
     light: "images/favicon-light.png"
   site_logo: "images/logo.svg"
 sectionPagesMenu: main
-title: "WiDE"
+title: "Q-WORKS"
 theme: "github.com/theNewDynamic/gohugo-theme-ananke"
+caches:
+  images:
+    dir: :cacheDir/images
