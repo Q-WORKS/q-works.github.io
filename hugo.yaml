@@ -9,7 +9,7 @@ menu:
       name: "Editions"
       pageRef: /
     - name: "2026"
-      pageRef: /2026
+      pageRef: /
       parent: editions
       weight: 4
 params:
