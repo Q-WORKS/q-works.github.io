@@ -1,10 +1,10 @@
 ---
 description: "2nd Workshop on Workflows in Distributed Environments"
-featured_image: "/images/2024/featured-image.jpg"
+featured_image: "/images/2026/featured-image.jpg"
 layout: "wide"
 location: "Athens, Greece"
-period: "April 22, 2024"
-title: "WiDE 2024"
+period: "April 22, 2026"
+title: "WiDE 2026"
 type: "page"
 ---
 
@@ -16,7 +16,7 @@ The WiDE workshop aims to bring together researchers working on all aspects of d
 
 ## Program
 
-The WiDE Workshop will be held on Monday, April 22nd, 2024 at the Royal Olympic Hotel. The technical program is detailed below:
+The WiDE Workshop will be held on Monday, April 23rd, 2026 at the Royal Olympic Hotel. The technical program is detailed below:
 
 |       |                                                                                                                                                           |
 | :---- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -32,7 +32,7 @@ The WiDE Workshop will be held on Monday, April 22nd, 2024 at the Royal Olympic 
 
 ## Scope
 
-The WiDE 2024 workshop will be held in conjunction with the [EuroSys 2024](http://2024.eurosys.org/) conference in Athens, Greece. All papers submitted to WiDE 2024 will be published in the ACM Digital Library within the EuroSys 2024 common workshops proceedings.
+The WiDE 2026 workshop will be held in conjunction with the [EuroSys 2026](http://2026.eurosys.org/) conference in Athens, Greece. All papers submitted to WiDE 2026 will be published in the ACM Digital Library within the EuroSys 2026 common workshops proceedings.
 
 Topics of interest include, but are not limited to, the following:
 
@@ -66,9 +66,9 @@ The WiDE workshop promotes Open Science. Publishing Open Access data, code, and 
 
 All dates below are Anywhere on Earth (AoE):
 
-- **Manuscript submissions (extended)**: Saturday, February 23, 2024
-- **Acceptance decisions**: Saturday, March 02, 2024
-- **Camera-ready sumbissions**: Friday, March 15, 2024
+- **Manuscript submissions**: Tuesday, September 30, 2025
+- **Acceptance decisions**: Tuesday, October 28, 2025
+- **Camera-ready submissions**: Tuesday, November 18, 2025
 
 ## Organization
 
@@ -104,7 +104,7 @@ All dates below are Anywhere on Earth (AoE):
   class="sponsor"
   href="https://acrossproject.eu/"
   img.alt="ACROSS EuroHPC Project"
-  img.src="/images/2024/sponsor-logo-across.png"
+  img.src="/images/2026/sponsor-logo-across.png"
   img.title="HPC, Big Data, and Artificial Intelligence convergent platform"
 >}}
 
@@ -112,6 +112,6 @@ All dates below are Anywhere on Earth (AoE):
   class="sponsor"
   href="https://admire-eurohpc.eu/"
   img.alt="ADMIRE EuroHPC Project"
-  img.src="/images/2024/sponsor-logo-admire.png"
+  img.src="/images/2026/sponsor-logo-admire.png"
   img.title="Adaptative Multi-tier Intelligent data manager for Exascale"
 >}}
