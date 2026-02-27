@@ -8,12 +8,8 @@ menu:
     - identifier: editions
       name: "Editions"
       pageRef: /
-    - name: "2023"
-      pageRef: /2023
-      parent: editions
-      weight: 5
-    - name: "2024"
-      pageRef: /2024
+    - name: "2026"
+      pageRef: /2026
       parent: editions
       weight: 4
 params:
