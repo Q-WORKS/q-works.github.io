@@ -7,7 +7,7 @@ menu:
   main:
     - identifier: editions
       name: "Editions"
-      pageRef: /2026
+      pageRef: /
     - name: "2026"
       pageRef: /2026
       parent: editions
