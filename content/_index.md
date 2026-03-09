@@ -4,12 +4,10 @@ featured_image: "/images/2026/featured-image.jpg"
 layout: "wide"
 location: "Pisa, Italy"
 period: "August, 2026"
-title: "Q-WORKS 2026"
+title: "Call for Papers"
 type: "page"
 ---
 
-# Call for Papers
-## **Q‑WORKS 2026 — Quantum–HPC Workflows, Resource Allocation, and Scheduling**  
 Co‑located with **Euro‑Par 2026**  
 **24–25 August 2026 – Pisa, Italy**  
 
