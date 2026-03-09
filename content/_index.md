@@ -101,7 +101,7 @@ Reviews will be handled through the **Euro‑Par 2026 EasyChair instance**, with
 - Jorge Echavarria, Munich Quantum Valley  
 - Marco De Pascale, Munich Quantum Valley  
 - Martin Ruefenacht  
-- **TBD**: Gianluca Bertaina, Istituto Nazionale di Ricerca Metrologica  
+- Gianluca Bertaina, Istituto Nazionale di Ricerca Metrologica  
 - Edoardo Giusto, Università di Napoli Federico II  
 - Olivier Terzo, LINKS Foundation  
 - Bartolomeo Montrucchio, Politecnico di Torino  
