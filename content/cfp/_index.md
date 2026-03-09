@@ -6,6 +6,8 @@ location: "Pisa, Italy"
 period: "August, 2026"
 title: "Q-WORKS"
 type: "page"
+aliases:
+  - "/"
 ---
 
 # Call for Papers
