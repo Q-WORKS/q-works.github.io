@@ -1,16 +1,15 @@
 baseURL: "https://q-works.github.io/"
 disableKinds:
- - taxonomy
+  - taxonomy
 enableRobotsTXT: true
 languageCode: "en-us"
 menu:
   main:
-    - identifier: menu
-      name: "Home"
-      pageRef: /
-    - name: "program"
+    - name: "Call for Papers"
+      pageRef: /call-for-papers
+      weight: 1
+    - name: "Program"
       pageRef: /program
-      parent: menu
       weight: 2
 params:
   custom_css:
