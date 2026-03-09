@@ -1,3 +1,3 @@
-# WiDE Workshop Website
+# Q-WORKS Workshop Website
 
-This repository contains the source code for the [WiDE website](https://wide.hpc4ai.it), built with the [Hugo](https://gohugo.io/) static site generator and styled with the [Ananke](https://github.com/theNewDynamic/gohugo-theme-ananke) Hugo theme.
+This repository contains the source code for the [Q-WORKS website](https://q-works.github.io), built with the [Hugo](https://gohugo.io/) static site generator and styled with the [Ananke](https://github.com/theNewDynamic/gohugo-theme-ananke) Hugo theme.
