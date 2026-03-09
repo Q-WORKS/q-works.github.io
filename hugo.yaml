@@ -5,12 +5,12 @@ enableRobotsTXT: true
 languageCode: "en-us"
 menu:
   main:
-    - identifier: editions
-      name: "Editions"
+    - identifier: menu
+      name: "Home"
       pageRef: /
-    - name: "2026"
-      pageRef: /
-      parent: editions
+    - name: "program"
+      pageRef: /program
+      parent: menu
       weight: 4
 params:
   custom_css:
