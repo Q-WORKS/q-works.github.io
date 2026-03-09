@@ -55,8 +55,8 @@ Authors are invited to submit original, unpublished work on topics including, bu
 
 - **Paolo Viviani** (paolo.viviani@linksfoundation.com) – LINKS Foundation  
 - **Sara Marzella** – CINECA  
-- **Doriana Medić** – University of Torino  
-- **Roberto Rocco** – E4 Computer Engineering
+- **Doriana Medić** (doriana.medic@unito.it) – University of Torino  
+- **Roberto Rocco** (roberto.rocco@e4company.com) – E4 Computer Engineering
 
 ---
 
