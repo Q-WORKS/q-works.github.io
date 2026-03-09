@@ -4,9 +4,11 @@ featured_image: "/images/2026/featured-image.jpg"
 layout: "wide"
 location: "Pisa, Italy"
 period: "August, 2026"
-title: "Call for Papers"
+title: "Q-WORKS"
 type: "page"
 ---
+
+# Call for Papers
 
 Co‑located with **Euro‑Par 2026**  
 **24–25 August 2026 – Pisa, Italy**  
