@@ -8,4 +8,6 @@ title: "Q-WORKS"
 type: "page"
 ---
 
-# Work In progress
+## Keynote
+### Miwako Tsuji (Ph.D.), RIKEN
+Miwako Tsuji received PhD from Information Science and Technology, Hokkaido University. She is a research scientist at RIKEN Center for Computational Science. She was a member of the flagship 2020 project, which had conducted the design and development of the supercomputer Fugaku during the full period of the project. Her current research interests are programming model and performance model of the large-scale high-performance computing. She is a coauthor of ACM Gordon Bell Prize in 2011. She leads Quantum-HPC Hybrid Software Environment Unit in RIKEN Center for Computational Science and is a professor of Center for Computational Sciences, University of Tsukuba
