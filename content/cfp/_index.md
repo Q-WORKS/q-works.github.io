@@ -78,31 +78,31 @@ Reviews will be handled through the **Euro‑Par 2026 EasyChair instance**, with
 
 ## Program Committee
 
-- Giacomo Vitali, LINKS Foundation  
-- Emanuele Dri, LINKS Foundation  
-- Chiara Vercellino, LINKS Foundation  
-- Gabriella Bettonte, E4 Computer Engineering  
-- Daniele Ottaviani, E4 Computer Engineering  
-- Iacopo Colonnelli, Università di Torino  
-- Marco Cipollini, Politecnico di Torino  
-- Vincenzo Pianese, Politecnico di Torino  
-- Jonathan Frassineti, CINECA  
-- Giovanna Turvani, Politecnico di Torino  
-- Deborah Volpe, Politecnico di Torino  
-- Tommaso Macrì, QuEra  
-- Rosa M. Badia, BSC  
-- Krzysztof Kurowski, PSNC  
-- Ugo Varetto, Pawsey Supercomputing Centre  
-- Marco Aldinucci, Università di Torino  
-- Pascal Elahi, Pawsey Supercomputing Centre  
-- Álvaro Caride‑Tabarés Sánchez, IQM  
-- Jorge Echavarria, Munich Quantum Valley  
-- Marco De Pascale, Munich Quantum Valley  
-- Martin Ruefenacht  
-- Gianluca Bertaina, Istituto Nazionale di Ricerca Metrologica  
-- Edoardo Giusto, Università di Napoli Federico II  
-- Olivier Terzo, LINKS Foundation  
-- Bartolomeo Montrucchio, Politecnico di Torino  
-- Rafael Sotelo, Universidad de Montevideo  
-- Francesco Medina, Università di Torino
+- Marco Aldinucci, Università di Torino
+- Rosa M. Badia, BSC
+- Gianluca Bertaina, Istituto Nazionale di Ricerca Metrologica
+- Gabriella Bettonte, E4 Computer Engineering
 - Mario Bifulco, Università di Torino
+- Álvaro Caride‑Tabarés Sánchez, IQM
+- Marco Cipollini, Politecnico di Torino
+- Iacopo Colonnelli, Università di Torino
+- Marco De Pascale, Munich Quantum Valley
+- Emanuele Dri, LINKS Foundation
+- Jorge Echavarria, Munich Quantum Valley
+- Pascal Elahi, Pawsey Supercomputing Centre
+- Jonathan Frassineti, CINECA
+- Edoardo Giusto, Università di Napoli Federico II
+- Krzysztof Kurowski, PSNC
+- Tommaso Macrì, QuEra
+- Francesco Medina, Università di Torino
+- Bartolomeo Montrucchio, Politecnico di Torino
+- Daniele Ottaviani, E4 Computer Engineering
+- Vincenzo Pianese, Politecnico di Torino
+- Martin Ruefenacht
+- Rafael Sotelo, Universidad de Montevideo
+- Olivier Terzo, LINKS Foundation
+- Giovanna Turvani, Politecnico di Torino
+- Ugo Varetto, Pawsey Supercomputing Centre
+- Chiara Vercellino, LINKS Foundation
+- Giacomo Vitali, LINKS Foundation
+- Deborah Volpe, Politecnico di Torino
