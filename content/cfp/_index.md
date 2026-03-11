@@ -71,7 +71,7 @@ Authors are invited to submit papers formatted using the [**Springer LNCS templa
 Submissions must represent **original work** not previously published or under review elsewhere.  
 Reviews will be handled through the **Euro‑Par 2026 EasyChair instance**, with each submission receiving at least three reviews.
 
-**Submission link:** _[EasyChair link — to be announced]_
+**Submission link:** [EasyChair](https://easychair.org/conferences/?conf=europar2026workshops)
 
 ---
 
