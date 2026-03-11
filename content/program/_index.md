@@ -4,10 +4,10 @@ featured_image: "/images/2026/featured-image.jpg"
 layout: "wide"
 location: "Pisa, Italy"
 period: "August, 2026"
-title: "Program"
 type: "page"
 ---
 
+# Program
 ## Keynote
 
 {{< speaker name="Miwako Tsuji (Ph.D.)" affiliation="RIKEN" image="/images/2026/profile_miwako-tsuji.jpg" >}}

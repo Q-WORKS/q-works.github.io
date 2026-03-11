@@ -4,7 +4,6 @@ featured_image: "/images/2026/featured-image.jpg"
 layout: "wide"
 location: "Pisa, Italy"
 period: "August, 2026"
-title: "Call for Papers"
 type: "page"
 ---
 
