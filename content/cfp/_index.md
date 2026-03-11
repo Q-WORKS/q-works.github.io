@@ -54,7 +54,7 @@ Authors are invited to submit original, unpublished work on topics including, bu
 
 - **Paolo Viviani** (paolo.viviani@linksfoundation.com) – LINKS Foundation  
 - **Sara Marzella** – CINECA  
-- **Doriana Medić** (doriana.medic@unito.it) – University of Torino  
+- **Doriana Medić** (doriana.medic@unito.it) – Università degli Studi di Torino 
 - **Roberto Rocco** (roberto.rocco@e4company.com) – E4 Computer Engineering
 
 ---
@@ -77,14 +77,14 @@ Reviews will be handled through the **Euro‑Par 2026 EasyChair instance**, with
 
 ## Program Committee
 
-- Marco Aldinucci, Università di Torino
+- Marco Aldinucci, Università degli Studi di Torino
 - Rosa M. Badia, BSC
 - Gianluca Bertaina, Istituto Nazionale di Ricerca Metrologica
 - Gabriella Bettonte, E4 Computer Engineering
-- Mario Bifulco, Università di Torino
+- Mario Bifulco, Università degli Studi di Torino
 - Álvaro Caride‑Tabarés Sánchez, IQM
 - Marco Cipollini, Politecnico di Torino
-- Iacopo Colonnelli, Università di Torino
+- Iacopo Colonnelli, Università degli Studi di Torino
 - Marco De Pascale, Munich Quantum Valley
 - Emanuele Dri, LINKS Foundation
 - Jorge Echavarria, Munich Quantum Valley
@@ -93,7 +93,7 @@ Reviews will be handled through the **Euro‑Par 2026 EasyChair instance**, with
 - Edoardo Giusto, Università di Napoli Federico II
 - Krzysztof Kurowski, PSNC
 - Tommaso Macrì, QuEra
-- Francesco Medina, Università di Torino
+- Francesco Medina, Università degli Studi di Torino
 - Bartolomeo Montrucchio, Politecnico di Torino
 - Daniele Ottaviani, E4 Computer Engineering
 - Vincenzo Pianese, Politecnico di Torino
