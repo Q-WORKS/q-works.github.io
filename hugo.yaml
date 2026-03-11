@@ -19,7 +19,7 @@ params:
   favicon:
     dark: "images/favicon-dark.png"
     light: "images/favicon-light.png"
-  site_logo: "images/logo.svg"
+  site_logo: "images/logo.png"
 title: "Q-WORKS"
 theme: "github.com/theNewDynamic/gohugo-theme-ananke"
 caches:
