@@ -1,0 +1,11 @@
+<div class="speaker-card" style="display: flex; gap: 2rem; align-items: flex-start; margin: 2rem 0;">
+  <div style="flex-shrink: 0;">
+    <img src="{{ .Get "image" }}" alt="{{ .Get "name" }}"
+         style="width: 160px; height: 160px; object-fit: cover; border-radius: 4px;">
+  </div>
+  <div>
+    <h3 style="margin-top: 0;">{{ .Get "name" }}</h3>
+    <p style="color: #666; margin-top: -0.5rem;">{{ .Get "affiliation" }}</p>
+    {{ .Inner | markdownify }}
+  </div>
+</div>
