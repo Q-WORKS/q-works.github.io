@@ -11,6 +11,9 @@ menu:
     - name: "Program"
       pageRef: /program
       weight: 2
+    - name: "Organisation"
+      pageRef: /organisation
+      weight: 3
 params:
   custom_css:
     - "button.css"
