@@ -34,7 +34,7 @@ Authors are invited to submit original, unpublished work on topics including, bu
 - Near-term quantum applications for HPC  
 - Co-design of hardware and software for hybrid systems  
 - Workflow languages for hybrid execution environments  
-- EU project activities (e.g., EUROQHPC‑I)
+- EU project activities (e.g., EUROQHPC‑I, QEC4QEA, QEX)
 
 ---
 
