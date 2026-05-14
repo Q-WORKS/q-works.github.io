@@ -21,6 +21,7 @@ type: "page"
 - Marco Aldinucci, Università degli Studi di Torino
 - Rosa M. Badia, BSC
 - Gianluca Bertaina, Istituto Nazionale di Ricerca Metrologica
+- Alessandro Berti, Univerità di Pisa
 - Gabriella Bettonte, E4 Computer Engineering
 - Mario Bifulco, Università degli Studi di Torino
 - Álvaro Caride‑Tabarés Sánchez, IQM
