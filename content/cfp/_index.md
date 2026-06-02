@@ -41,7 +41,7 @@ Authors are invited to submit original, unpublished work on topics including, bu
 ## Important Dates
 
 - **Paper submission deadline (extended):** ~~May 15~~, **May 29, 2026**  
-- **Author notification deadline: June 12, 2026**  
+- **Author notification deadline: ** ~~Jun 12~~, **Jun 24, 2026**    
 - **Camera-ready deadline: July 10, 2026**  
 - **Workshop sessions: 24–25 August 2026**
 
