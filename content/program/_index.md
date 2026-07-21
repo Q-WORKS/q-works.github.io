@@ -3,7 +3,7 @@ description: "1st Workshop on Quantum–HPC Workflows, Resources allocation, and
 featured_image: "/images/2026/featured-image.jpg"
 layout: "wide"
 location: "Co‑located with Euro‑Par 2026"
-period: "Pisa, August 24-25, 2026"
+period: "Pisa, August 24, 2026"
 type: "page"
 ---
 
