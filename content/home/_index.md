@@ -3,7 +3,7 @@ description: "1st Workshop on Quantum–HPC Workflows, Resources allocation, and
 featured_image: "/images/2026/featured-image.jpg"
 layout: "wide"
 location: "Co‑located with Euro‑Par 2026"
-period: "Pisa, August 24-25, 2026"
+period: "Pisa, August 24, 2026"
 type: "page"
 ---
 
@@ -15,7 +15,7 @@ The **1st Workshop on Quantum–HPC Workflows, Resources allocation, and Schedul
 
 ## Schedule
 
-The workshop will take place on the **afternoon of Wednesday, September 24, 2026**.
+The workshop will take place on the **afternoon of Monday, August 24, 2026**.
 
 The detailed [program](/program) will be communicated at a later date.
 
